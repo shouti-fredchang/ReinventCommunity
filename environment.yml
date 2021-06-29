@@ -1,4 +1,4 @@
-name: ReinventCommunity
+name: reinventcomm
 channels:
   - conda-forge
   - omnia
